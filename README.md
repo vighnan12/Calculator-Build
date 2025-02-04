@@ -19,10 +19,4 @@ To integrate the JavaScript simple calculator into an HTML document, the **JavaS
 
 Overall, the HTML5 and **JavaScript Simple Calculator** is a powerful yet straightforward tool that demonstrates the capabilities of HTML5 and JavaScript. It showcases the integration of HTML5 elements and JavaScript code to create a functional and user-friendly calculator. Whether you are a beginner looking to learn JavaScript or an experienced developer seeking inspiration, exploring the JavaScript calculator code, source code, examples, and HTML implementation of this simple calculator provide valuable insights and help improve your skills in web development.
 
-# Demo
-https://www.yusufsezer.com/projects/simple-calculator/
 
-# License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
-
-Created by [Yusuf Sezer](https://www.yusufsezer.com)
